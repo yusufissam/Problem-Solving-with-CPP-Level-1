@@ -42,9 +42,3 @@ int main()
     PrintResults(MaxOfNumbers(A, B, C));
     return 0;
 }
-
-// Youssef Essam
-
-// 4 8 2026
-
-// Algorithm Solutions Level 1

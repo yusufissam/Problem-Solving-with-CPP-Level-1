@@ -32,9 +32,3 @@ int main()
 
     return 0;
 }
-
-// Youssef Essam
-
-// 9 8 2026
-
-// Algorithm Solutions Level 1
